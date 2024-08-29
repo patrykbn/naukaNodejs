@@ -1,0 +1,142 @@
+[
+  {
+    "gender": "F",
+    "firstName": "Katarzyna",
+    "lastName": "Woźniak",
+    "age": 64,
+    "email": "Woźniak.Katarzyna1960@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Zuzanna",
+    "lastName": "Kowalski",
+    "age": 18,
+    "email": "Kowalski.Zuzanna2006@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Jakub",
+    "lastName": "Wiśniewski",
+    "age": 68,
+    "email": "Wiśniewski.Jakub1956@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Wojciech",
+    "lastName": "Kowalczyk",
+    "age": 34,
+    "email": "Kowalczyk.Wojciech1990@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Zuzanna",
+    "lastName": "Nowak",
+    "age": 74,
+    "email": "Nowak.Zuzanna1950@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Julia",
+    "lastName": "Zieliński",
+    "age": 73,
+    "email": "Zieliński.Julia1951@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Wojciech",
+    "lastName": "Kamiński",
+    "age": 21,
+    "email": "Kamiński.Wojciech2003@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Zuzanna",
+    "lastName": "Zieliński",
+    "age": 53,
+    "email": "Zieliński.Zuzanna1971@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Julia",
+    "lastName": "Wiśniewski",
+    "age": 18,
+    "email": "Wiśniewski.Julia2006@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Wojciech",
+    "lastName": "Lewandowski",
+    "age": 49,
+    "email": "Lewandowski.Wojciech1975@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Paweł",
+    "lastName": "Woźniak",
+    "age": 33,
+    "email": "Woźniak.Paweł1991@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Oliwia",
+    "lastName": "Lewandowski",
+    "age": 53,
+    "email": "Lewandowski.Oliwia1971@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Zuzanna",
+    "lastName": "Szymański",
+    "age": 53,
+    "email": "Szymański.Zuzanna1971@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Anna",
+    "lastName": "Szymański",
+    "age": 63,
+    "email": "Szymański.Anna1961@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Wojciech",
+    "lastName": "Szymański",
+    "age": 56,
+    "email": "Szymański.Wojciech1968@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Amelia",
+    "lastName": "Szymański",
+    "age": 48,
+    "email": "Szymański.Amelia1976@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Jakub",
+    "lastName": "Szymański",
+    "age": 70,
+    "email": "Szymański.Jakub1954@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Kacper",
+    "lastName": "Nowak",
+    "age": 41,
+    "email": "Nowak.Kacper1983@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Amelia",
+    "lastName": "Szymański",
+    "age": 39,
+    "email": "Szymański.Amelia1985@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Michał",
+    "lastName": "Wiśniewski",
+    "age": 43,
+    "email": "Wiśniewski.Michał1981@gmail.com"
+  }
+]
